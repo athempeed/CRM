@@ -1,0 +1,30 @@
+﻿@import url('file:///C:\Users\Deepak_S_Mehta\source\repos\test\test\wwwroot\css\utilitycss.css');
+body {
+}
+/*#- ID*/
+#div{
+    background-color:blue;
+    height:300px;
+    width:500px;
+}
+
+/*. - class*/
+.tblEmployee {
+    color: white;
+}
+
+/*tag name*/
+table {
+    background-color: grey;
+}
+
+    table > thead > tr > td, tbody > tr > td {
+        border: dashed;
+        text-align: center;
+        padding: 10px;
+    }
+
+
+@media(max-width:768px,){
+
+}

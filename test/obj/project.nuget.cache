@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAo6SpF40cF3hqkuI3JzhobrJ62B186PighYFaz1DXGTrFWL+39GlLVuo23fFdApT0Mv7OV7fENiwUqQISDvlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deepak_S_Mehta\\source\\repos\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\asd.domain\\19.7.15\\asd.domain.19.7.15.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Users\\Deepak_S_Mehta\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
